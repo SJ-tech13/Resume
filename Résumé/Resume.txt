@@ -1,0 +1,39 @@
+Swapna Jha
+ 
+ 
+Skills
+Java | Data handling |OOPS | XML | JDBC | SQL | Servlets | JSP | Hibernate | Spring, Ajax and Design Pattern | SOA | Web Services | Git | Jira | HTML, CSS | Excel | Tableau |MS Office | Statistical Analysis
+
+ 
+Experience
+ Thakralone / Junior developer/Trainer
+ December 2011 - Mar 2012, Bangalore, India
+
+Worked on Banking Project, Created PPT and trained the team.
+Team size 13.
+Led a successful launch event for one of the company’s products  
+Education
+ Tech Talent South / Web Development 
+2019 - 2023, Hartford, CT 
+Full-time immersive in-person program learning Angular, Spring Boot, NodeJS, Java, Javascript,HTML, CSS, MongoDB, SQL, Tableau.
+Bachelor of Science  from SKMU University, Jharkhand, India.IGNOU / MCA(1st to 7th semester) 
+2010 - 2012, Bangalore, India 
+Bachelor of Science  from SKMU University, Jharkhand, India.
+  
+Projects 
+TTS-dashboard Project 
+A product dashboard, used internally by a company, that uses a RESTful API service, a SQL database and a front-end built with Angular
+Completed the Tech Talent Select Full Stack Java
+Development seminar, a 12 week, full-time bootcamp
+sponsored by The Hartford, where I took a deeper
+dive into all aspects of software development and
+building a web application, including front-end
+development with Angular, back-end development
+with Java, Spring, Spring Boot and IntelliJ IDEA,
+working with SQL databases, APIs, version control
+systems, test driven development, Agile techniques
+and practices, and deployment. Emphasis was placed
+on full stack Java programming and development.
+
+
+Swapna jha
